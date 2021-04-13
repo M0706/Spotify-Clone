@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Spotify-Clone",
-    "slug": "Spotify-Clone",
+    "name": "Spotify",
+    "slug": "Spotify",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -20,12 +20,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
